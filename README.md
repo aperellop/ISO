@@ -1,7 +1,7 @@
 # ISO
 Implantació de Sistemes Operatius
 
-- Instal·la sistemes operatius, analitzant les seves característiques i interpretant la documentació tècnica.
+1. Instal·la sistemes operatius, analitzant les seves característiques i interpretant la documentació tècnica.
     - S'han identificat els elements funcionals d'un sistema informàtic.
     - S'han identificat les característiques, funcions i arquitectura d'un sistema operatiu.
     - S'han comparat diferents sistemes operatius, les seves versions i llicències d'ús, en funció dels seus requisits, característiques i camps d'aplicació.
